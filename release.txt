@@ -1,2 +1,2 @@
-env=preprod
+env=dev
 version=2.0.0
