@@ -1,2 +1,2 @@
-env=preprod
-version=1.0.0
+env=prod
+version=2.0.0
